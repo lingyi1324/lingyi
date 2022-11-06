@@ -1,2 +1,0 @@
-# lingyi
-my reository
